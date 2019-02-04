@@ -1,0 +1,44 @@
+*{
+	cursor: initial;
+}
+body{
+	background-image: url(fondo.jpg);
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	color: #5E9732;
+}
+
+#one {
+	color: rgba(99, 39, 112, 0.7);
+	text-align: center;
+	border: 3px dotted #727D15;
+}
+#main{
+	color: rgba(153, 51, 80, 0.7);
+	font-family: arial;
+	font-weight: bold;
+	line-height: 20px;
+}
+#photo{
+	text-align: center;
+	align-content: center;
+	font-family: arial;
+	font-weight: 50;
+}
+h3{
+	color: white;
+}
+.asking{
+	color: white;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	color: red;
+}
+#two {
+	text-align: center;
+	color: orange;
+}
